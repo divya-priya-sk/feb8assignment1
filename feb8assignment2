@@ -1,0 +1,4 @@
+#program to convert kilometers to centimeters
+kilometers=float(input('enter the measure:'))
+centimeters=100000*kilometers
+print("conversion kilometers to centimeters:",centimeters)
