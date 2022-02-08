@@ -1,0 +1,32 @@
+#working on comparison operators
+a=int(input("enter value of a:"))
+b=int(input("enter value of b:"))
+if (a<b): 
+   print("true")
+else:
+   print("false")
+
+if(a>b):
+   print("true")
+else:
+   print("false")
+
+if(a<=b):
+   print("true")
+else:
+   print("false")
+
+if(a>=b):
+   print("true")
+else:
+   print("false")
+
+if(a==b):
+   print("true")
+else:
+   print("false")
+
+if(a!=b):
+   print("true")
+else:
+   print("false")
